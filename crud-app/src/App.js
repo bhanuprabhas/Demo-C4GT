@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React witi react 
+          Learn React with react test tets 
         </a>
       </header>
     </div>
